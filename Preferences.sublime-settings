@@ -1,71 +1,71 @@
 {
-    "always_show_minimap_viewport": true,
-    "anaconda_linting": false,
-    "auto_complete": false,
-    "binary_file_patterns":
-    [
-        "*.jpg",
-        "*.jpeg",
-        "*.png",
-        "*.gif",
-        "*.ttf",
-        "*.tga",
-        "*.dds",
-        "*.ico",
-        "*.eot",
-        "*.pdf",
-        "*.swf",
-        "*.jar",
-        "*.zip"
-    ],
-    "caret_extra_width": 1,
-    "caret_style": "phase",
-    "color_scheme": "Packages/Monokai Extended/Monokai Extended.tmTheme",
-    "create_window_at_startup": false,
-    "default_line_ending": "unix",
-    "draw_white_space": "all",
-    "ensure_newline_at_eof_on_save": true,
-    "fallback_encoding": "UTF-8",
-    "figlet_font": "zone7___",
-    "file_exclude_patterns":
-    [
-        ".DS_Store",
-        "*.swp",
-        "*.pyc"
-    ],
-    "folder_exclude_patterns":
-    [
-        ".git",
-        ".vagrant",
-        ".sass-cache"
-    ],
-    "font_size": 12,
-    "git_binary": "/usr/local/bin/git",
-    "highlight_line": true,
-    "highlight_modified_tabs": true,
-    "hot_exit": false,
-    "ignored_packages":
-    [
-        "Python Checker",
-        "Vintage"
-    ],
-    "open_files_in_new_window": true,
-    "preview_on_click": false,
-    "remember_open_files": false,
-    "rulers":
-    [
-        100
-    ],
-    "scroll_past_end": true,
-    "shift_tab_unindent": true,
-    "show_encoding": true,
-    "show_full_path": false,
-    "tab_size": 4,
-    "tabs_small": true,
-    "theme": "Soda Dark 3.sublime-theme",
-    "translate_tabs_to_spaces": true,
-    "trim_automatic_white_space": true,
-    "trim_trailing_white_space_on_save": true,
-    "word_separators": "./\\()\"'-_:,.;<>~!@#$%^&*|+=[]{}`~?",
-    "word_wrap": true
+	"always_show_minimap_viewport": true,
+	"anaconda_linting": false,
+	"auto_complete": false,
+	"binary_file_patterns":
+	[
+		"*.jpg",
+		"*.jpeg",
+		"*.png",
+		"*.gif",
+		"*.ttf",
+		"*.tga",
+		"*.dds",
+		"*.ico",
+		"*.eot",
+		"*.pdf",
+		"*.swf",
+		"*.jar",
+		"*.zip"
+	],
+	"caret_extra_width": 1,
+	"caret_style": "phase",
+	"color_scheme": "Packages/Monokai Extended/Monokai Extended.tmTheme",
+	"create_window_at_startup": false,
+	"default_line_ending": "unix",
+	"draw_white_space": "all",
+	"ensure_newline_at_eof_on_save": true,
+	"fallback_encoding": "UTF-8",
+	"figlet_font": "zone7___",
+	"file_exclude_patterns":
+	[
+		".DS_Store",
+		"*.swp",
+		"*.pyc"
+	],
+	"folder_exclude_patterns":
+	[
+		".git",
+		".vagrant",
+		".sass-cache"
+	],
+	"font_size": 12,
+	"git_binary": "/usr/local/bin/git",
+	"highlight_line": true,
+	"highlight_modified_tabs": true,
+	"hot_exit": false,
+	"ignored_packages":
+	[
+		"Python Checker",
+		"Vintage"
+	],
+	"open_files_in_new_window": true,
+	"preview_on_click": false,
+	"remember_open_files": false,
+	"rulers":
+	[
+		100
+	],
+	"scroll_past_end": true,
+	"shift_tab_unindent": true,
+	"show_encoding": true,
+	"show_full_path": false,
+	"tab_size": 4,
+	"tabs_small": true,
+	"theme": "Soda Dark 3.sublime-theme",
+	"translate_tabs_to_spaces": true,
+	"trim_automatic_white_space": true,
+	"trim_trailing_white_space_on_save": true,
+	"word_separators": "./\\()\"'-_:,.;<>~!@#$%^&*|+=[]{}`~?",
+	"word_wrap": true
 }

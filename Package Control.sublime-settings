@@ -1,35 +1,36 @@
 {
-    "in_process_packages":
-    [
-    ],
-    "installed_packages":
-    [
-        "Anaconda",
-        "AutoFileName",
-        "Jade",
-        "JsonTree",
-        "Markdown Preview",
-        "Maybs Quit",
-        "Monokai Extended",
-        "Open Finder",
-        "Package Control",
-        "Pretty JSON",
-        "Python Checker",
-        "requirementstxt",
-        "Sass",
-        "SCSS",
-        "SideBarEnhancements",
-        "SublimeLinter",
-        "SublimeLinter-contrib-jade-lint",
-        "SublimeLinter-csslint",
-        "SublimeLinter-html-tidy",
-        "SublimeLinter-jshint",
-        "SublimeLinter-json",
-        "SublimeLinter-pep8",
-        "SublimeLinter-pyflakes",
-        "SublimeLinter-pyyaml",
-        "SyncedSideBar",
-        "Theme - Soda",
-        "TodoReview"
-    ]
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"Anaconda",
+		"AutoFileName",
+		"Jade",
+		"JsonTree",
+		"Markdown Preview",
+		"Maybs Quit",
+		"Monokai Extended",
+		"Open Finder",
+		"Package Control",
+		"Pretty JSON",
+		"Python Checker",
+		"requirementstxt",
+		"Sass",
+		"SCSS",
+		"SideBarEnhancements",
+		"SublimeLinter",
+		"SublimeLinter-contrib-jade-lint",
+		"SublimeLinter-csslint",
+		"SublimeLinter-html-tidy",
+		"SublimeLinter-jshint",
+		"SublimeLinter-json",
+		"SublimeLinter-pep8",
+		"SublimeLinter-pyflakes",
+		"SublimeLinter-pyyaml",
+		"SyncedSideBar",
+		"Theme - Soda",
+		"TodoReview"
+	]
 }
