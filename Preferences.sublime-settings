@@ -39,6 +39,7 @@
 		".vagrant",
 		".sass-cache"
 	],
+	"font_face": "Inconsolata",
 	"font_size": 12,
 	"git_binary": "/usr/local/bin/git",
 	"highlight_line": true,
